@@ -560,3 +560,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.rebel_readline_history

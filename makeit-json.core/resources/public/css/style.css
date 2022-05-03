@@ -1,0 +1,41 @@
+/* some style */
+
+html {
+  background: rgb(32, 32, 32);
+}
+
+body {
+  font-family: "Courier New", monospace;
+}
+
+table {
+  background: rgb(26, 26, 26);
+}
+
+.RenderMain {
+  color: #f2f2f2;
+  background: #14141467;
+  width: 80%;
+}
+
+.SubmitArea {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: inline-flex;
+  width: 100%;
+  text-align: center;
+}
+
+.InputField {
+  width: 98%;
+  height: 500px;
+  background: #59595967;
+  color: #cccccc;
+  font-size: 14px;
+  border-radius: 1px;
+}
+/* 
+{:padding "1vh"
+    :background "red"
+    :width "120vh"
+    :height "100vh"} */
